@@ -5,6 +5,7 @@
 		<meta http-equiv="X-UA-Compatible" content="IE=edge"/>
 		<meta name="viewport" content="width=device-width, initial-scale=1"/>
 
+
 		<!-- Begin Jekyll SEO tag v2.6.1 -->
 		<title>EKATERINA SKORYUPINA | rsschool-task-1-cv</title>
 		<meta name="generator" content="Jekyll v3.9.0"/>
@@ -13,28 +14,33 @@
 		<meta property="og:site_name" content="rsschool task 1 result"/>
 		<!-- End Jekyll SEO tag -->
 
+		<link rel="stylesheet" href="css/main.css"/>
+
 	</head>
 	<body>
-		<div class="container-lg px-3 my-5 markdown-body">
+		<div class="cv_container markdown-body">
+			<div><h1>EKATERINA SKORYUPINA</h1></div>
+			<div>
+				<a href="mailto:katskorupina@gmail.com"><img class="logo" src="images/email.png" alt="email: katskorupina@gmail.com"/></a>
+				<a href="http://www.linkedin.com/in/eskoryupina"><img class="logo" src="images/linkedin.png" alt="LinkedIn: eskoryupina"/></a>
+				<a href="https://github.com/skoryupina"><img class="logo" src="images/github.jpg" alt="Github: skoryupina"/></a>				
+			</div>
 
-			<h1>
-				<a href="https://skoryupina.github.io/rsschool-cv/">rsschool-cv</a>
-			</h1>
+			<div class="wrapper">
+				<img class="avatar" src="images/avatar.jpg"/>
 
+				<div>
+					<h2>PERSONAL STATEMENT</h2>
+					<p>
+								M.Sc. in Computer Science with a six-year relative IT experience from System Analysis to Software Engineering. I’m
+								looking for a Team Lead/Project Manager position to handle project’s challenges. I believe that my being proactive,
+								ability to see a big picture and to focus on a user experience will definitely bring any company to the next level of excellence.
+					</p>
+				</div>
+			</div>
+			
 
-			<h1>EKATERINA SKORYUPINA</h1>
-			<p>
-						email: katskorupina@gmail.com LinkedIn: <a href="http://www.linkedin.com/in/eskoryupina">eskoryupina</a> Github: <a href="https://github.com/skoryupina">skoryupina</a>
-			</p>
-
-			<h2>PERSONAL STATEMENT</h2>
-			<p>
-						M.Sc. in Computer Science with a six-year relative IT experience from System Analysis to Software Engineering. I’m
-						looking for a Team Lead/Project Manager position to handle project’s challenges. I believe that my being proactive,
-						ability to see a big picture and to focus on a user experience will definitely bring any company to the next level of excellence.
-			</p>
-
-			<h2>TECHNICAL SKILLS</h2>
+			<h2 style="clear:both;">TECHNICAL SKILLS</h2>
 			<ul>
 				<li>Programming languages: Java</li>
 				<li>Frameworks: Spring, JPA (Hibernate, EclipseLink)</li>
@@ -49,19 +55,19 @@
 			</ul>
 
 			<h2>EDUCATION</h2>
-			<h3>Samara National Research University, Russia | September 2015 – June 2017</h3>
+			<h3>Samara National Research University, Russia (September 2015 – June 2017)</h3>
 			<ul>
 				<li>M.Sc. in Computer Science and Engineering, GPA: 4.9/5</li>
 				<li>Concentration: Software Development for Mobile Devices</li>
 				<li>Minor: Intelligent Systems, Distributed Systems</li>
 			</ul>
 
-			<h3>Samara National Research University, Russia | September 2013 – June 2017</h3>
+			<h3>Samara National Research University, Russia (September 2013 – June 2017)</h3>
 			<ul>
 				<li>Additional Qualification “Interpreter in the Field of Professional Communication” (English), GPA: 5/5</li>
 			</ul>
 
-			<h3>Samara State Aerospace University, Russia | September 2011 – June 2015</h3>
+			<h3>Samara State Aerospace University, Russia (September 2011 – June 2015)</h3>
 			<ul>
 				<li>B.Sc. in Computer Science and Engineering, GPA: 5/5</li>
 				<li>Concentration: Java Programming, Databases</li>
